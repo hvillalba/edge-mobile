@@ -1,0 +1,14 @@
+py/hvillalba/edge/mobile/restapi/services/UserService.class
+py/hvillalba/edge/mobile/restapi/UserRest.class
+py/hvillalba/edge/mobile/restapi/services/RestAdapter.class
+py/hvillalba/edge/mobile/model/Geo.class
+py/hvillalba/edge/mobile/dto/Request.class
+py/hvillalba/edge/mobile/restapi/services/RestAdapter$1.class
+py/hvillalba/edge/mobile/model/Addres.class
+py/hvillalba/edge/mobile/model/Company.class
+py/hvillalba/edge/mobile/restapi/services/RestAdapter$2.class
+py/hvillalba/edge/mobile/restapi/RestApplication.class
+py/hvillalba/edge/mobile/restapi/services/RestAdapter$4.class
+py/hvillalba/edge/mobile/model/User.class
+py/hvillalba/edge/mobile/dto/Response.class
+py/hvillalba/edge/mobile/restapi/services/RestAdapter$3.class
